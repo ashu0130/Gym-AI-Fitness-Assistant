@@ -29,7 +29,7 @@ System suggests workouts accordingly.
 ---
 
 ## 🌐 Live Demo
-👉 https://yourusername-gym-calorie-predictor.hf.space
+👉 https://ashu9559-gym-calorie-predictor.hf.space
 
 ---
 
